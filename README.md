@@ -1,1 +1,1 @@
-# CypressProyects
+# CourseCypress
